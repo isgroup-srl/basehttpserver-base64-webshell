@@ -2,7 +2,7 @@
 A self-serving Python 2.7 HTTP GET/POST Web Shell
 
 ## Trivia
-Some days ago `sid` and me were writing a mod_python webshell to perform some Penetration Testing activity. You can access the code of [modpython-base64-webshell|https://github.com/siddolo/modpython-base64-webshell].
+Some days ago `sid` and me were writing a mod_python webshell to perform some Penetration Testing activity. You can access the code of `modpython-base64-webshell` https://github.com/siddolo/modpython-base64-webshell.
 
 Today I noticed that the customer is instead using `mod_wsgi` so our code was not fit for his infrastructure.
 
